@@ -1,5 +1,6 @@
 {
   "name": "xml2js",
+  "main": "lib/index",
   "description": "Simple XML to JavaScript object converter.",
   "version": "0.1.5",
   "author": "maqr <maqr.lollerskates@gmail.com>",
